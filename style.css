@@ -143,10 +143,10 @@ body {
 }
 
 .profile-image {
-    width: 200px;
-    height: 200px;
+    width: 260px;
+    height: 300px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: fill;
     border: 6px solid #ffffff;
     box-shadow: 0 20px 40px rgba(74, 144, 226, 0.2);
     transition: all 0.3s ease;
